@@ -242,6 +242,3 @@ Feedstock Maintainers
 
 * [@chyunsu3](https://github.com/chyunsu3/)
 
-
-<!-- dummy commit to enable rerendering -->
-
